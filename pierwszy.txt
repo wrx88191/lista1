@@ -1,3 +1,7 @@
 #######
+<<<<<<< HEAD
 Witamy z pierwszego pliku na branch dev1
+=======
+Witamy z pierwszego pliku
+>>>>>>> master
 #######
